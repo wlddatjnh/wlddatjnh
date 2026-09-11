@@ -8,3 +8,9 @@ Saya adalah siswa kelas 10 RPL 2 dari SMKN 1 Purwosari
 ![Wilda](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+
+| Tampilan | Warna |
+| :--- | :--- |
+| ![Pinky](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) | Pink |
+| ![](https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white) | Blue |
+| ![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) | Black |
